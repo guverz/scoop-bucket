@@ -1,0 +1,22 @@
+{
+    "version": "0.1.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/guverz/migration-go/releases/download/v0.1.5/migration-go_0.1.5_windows_amd64.zip",
+            "bin": [
+                "migration-go.exe"
+            ],
+            "hash": "129ca5a9b0e295055f81dd6b44a934f67f77a92b5f1deecd60dbd4c36722abc8"
+        },
+        "arm64": {
+            "url": "https://github.com/guverz/migration-go/releases/download/v0.1.5/migration-go_0.1.5_windows_arm64.zip",
+            "bin": [
+                "migration-go.exe"
+            ],
+            "hash": "093f436f11c86340987773db2c6645f055c911690cc0c91addd8086c439838ee"
+        }
+    },
+    "homepage": "https://github.com/guverz/migration-go",
+    "license": "MIT",
+    "description": "CLI for managing database migration files across a Git repository and its Git submodules"
+}
