@@ -6,14 +6,14 @@
             "bin": [
                 "migration-go.exe"
             ],
-            "hash": "bbbb87fc5d95cc5cdc67906387efd4e7098f65dd980b494d0256e27c7b2a8dd1"
+            "hash": "4991eed1e35ab262209dc917eac5bd36d3b3e991798b6581c6825ca77f787ac3"
         },
         "arm64": {
             "url": "https://github.com/guverz/migration-go/releases/download/v0.1.2/migration-go_0.1.2_windows_arm64.zip",
             "bin": [
                 "migration-go.exe"
             ],
-            "hash": "8b4690839eb085d6b83de0c231cd8eabf0e3a19ee937aae9b3d560349a5262f7"
+            "hash": "55adbdf6a28bd4fc115d1c5d0d1592efbc941a5720547ab247a6c62688371d12"
         }
     },
     "homepage": "https://github.com/guverz/migration-go",
