@@ -1,19 +1,19 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/guverz/migration-go/releases/download/v0.1.6/migration-go_0.1.6_windows_amd64.zip",
+            "url": "https://github.com/guverz/migration-go/releases/download/v0.1.7/migration-go_0.1.7_windows_amd64.zip",
             "bin": [
                 "migration-go.exe"
             ],
-            "hash": "377928ba167f0b4a115055bf5d8e9e33751f63704ab902ccd16cb9caa769866c"
+            "hash": "3b7724c94f4192827663013bb178deb9029bceba0b20915e4b85be7439d9835c"
         },
         "arm64": {
-            "url": "https://github.com/guverz/migration-go/releases/download/v0.1.6/migration-go_0.1.6_windows_arm64.zip",
+            "url": "https://github.com/guverz/migration-go/releases/download/v0.1.7/migration-go_0.1.7_windows_arm64.zip",
             "bin": [
                 "migration-go.exe"
             ],
-            "hash": "6d54452ab780914e480f3ad435ef15b66aaf0da3529eed99029c32ae2c623442"
+            "hash": "5db6f35c50d0d4e043503682ccfb29693edb5765abfab7d934a509c2fefde1fe"
         }
     },
     "homepage": "https://github.com/guverz/migration-go",
